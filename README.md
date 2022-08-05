@@ -29,20 +29,18 @@
         <meta name="title" content="Page title" />
         <meta name="description" content="Page description" />
         <meta name="keywords" content="Front-end Developer, Web Developer, System Analyst, Computer Scientist" />
-        <meta name="distribution" content="web" />
+        <link rel="canonical" href="https://github.com/Rafael-Araujo-dev/Meta-tags/edit/main/README.md" />
+        <meta name="robots" content="index, follow" />
         
         <!-- Optional -->
-        <meta name="distribution" content="web" />
         <meta name="web_author" content="Rafael Araujo" />
         <meta name="rating" content="general" />
         <meta name="rating" content="safe for kids" />
         <meta name="subject" content="Personal" />
-        <meta name="copyright" content="Copyright 2022" />
         <meta name="reply-to" content="email@email.com" />
         <meta name="abstract" content="" />
         <meta name="city" content="São Paulo" />
         <meta name="country" content="Brazil" />
-        <meta name="distribution" content="global" />
         <meta name="classification" content="" />
 
         <!-- http-equiv -->
@@ -78,6 +76,8 @@
         <meta property="twitter:title" content="Page title" />
         <meta property="twitter:description" content="Page description" />
         <meta property="twitter:image" content="/image.jpeg" />
+        <meta name="twitter:site" content="@USERNAME" />
+        <meta name="twitter:creator" content="@USERNAME" />
         
     <head>
 </html>
