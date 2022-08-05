@@ -14,6 +14,7 @@
         <!-- Primary Meta Tags -->
         <meta name="title" content="Page title" />
         <meta name="description" content="Page description" />
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
         
         <!-- Open Graph / Facebook -->
         <meta property="og:type" content="article" />
