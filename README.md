@@ -1,7 +1,10 @@
 # Meta-tags
 
 ```html
-
+<!DOCTYPE html>
+<html lang="pt-BR">
+      <head>
+           
         <title>Page title</title>
         <link rel="shortcut icon" href="/icon.ico" />
         
@@ -11,10 +14,43 @@
         <!-- Apple Touch Icons -->
         <link rel="apple-touch-icon" href="/icon.png" />
         
-        <!-- Primary Meta Tags -->
+        <meta charset="utf-8" />
+        <meta name="language" content="portuguese" />
+
+        <meta name="format-detection" content="telephone=yes"/>
+        <meta name="HandheldFriendly" content="true"/> 
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+        <meta name="author" content="Rafael Araujo" />
+        <meta name="designer" content="Rafael Araujo" />
+        <meta name="publisher" content="Rafael Araujo" />
+
+        <!-- SEO - Search Engine Optimization -->
         <meta name="title" content="Page title" />
         <meta name="description" content="Page description" />
-        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <meta name="keywords" content="Front-end Developer, Web Developer, System Analyst, Computer Scientist" />
+        <meta name="distribution" content="web" />
+        
+        <!-- Optional -->
+        <meta name="distribution" content="web" />
+        <meta name="web_author" content="Rafael Araujo" />
+        <meta name="rating" content="general" />
+        <meta name="rating" content="safe for kids" />
+        <meta name="subject" content="Personal" />
+        <meta name="copyright" content="Copyright 2022" />
+        <meta name="reply-to" content="email@email.com" />
+        <meta name="abstract" content="" />
+        <meta name="city" content="São Paulo" />
+        <meta name="country" content="Brazil" />
+        <meta name="distribution" content="global" />
+        <meta name="classification" content="" />
+
+        <!-- http-equiv -->
+        <meta http-equiv="cache-control" content="no-cache" />
+        <meta http-equiv="content-language" content="pt-BR, en-US" />
+        <meta http-equiv="content-type" content="text/html" />
+        <meta http-equiv="Content-Style-Type" content="text/css" />
+        <meta http-equiv="Content-Script-Type" content="text/javascript" />
         
         <!-- Open Graph / Facebook -->
         <meta property="og:type" content="article" />
@@ -42,5 +78,7 @@
         <meta property="twitter:title" content="Page title" />
         <meta property="twitter:description" content="Page description" />
         <meta property="twitter:image" content="/image.jpeg" />
-
+        
+    <head>
+</html>
 ```
