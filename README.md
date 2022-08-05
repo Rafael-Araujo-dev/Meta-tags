@@ -20,6 +20,7 @@
         <meta name="format-detection" content="telephone=yes"/>
         <meta name="HandheldFriendly" content="true"/> 
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta name="theme-color" content="#404040" />
 
         <meta name="author" content="Rafael Araujo" />
         <meta name="designer" content="Rafael Araujo" />
