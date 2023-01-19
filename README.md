@@ -7,6 +7,7 @@
            
         <title>Page title</title>
         <link rel="shortcut icon" href="/icon.ico" />
+        <link rel="canonical" href="domain-url">
         
         <!-- Favicons -->
         <link rel="icon" href="/icon.png" />
